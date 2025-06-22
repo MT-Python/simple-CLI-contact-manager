@@ -1,1 +1,1 @@
-# simple-CLI-contact-manager
+A simple CLI contact manager using Python.
